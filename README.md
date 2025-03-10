@@ -1,6 +1,6 @@
 # Lucas Mardegani
 
-Me chamo Lucas Mardegani Lima Henrique, tenho 19 anos e sou natural do Espírito Santo. Concluí o ensino médio no Cristo Rei. Atualmente, estou cursando Ciência da Computação na UVV.
+Me chamo Lucas Mardegani, tenho 19 anos e sou natural do Espírito Santo. Concluí o ensino médio no Cristo Rei. Atualmente, estou cursando Ciência da Computação na UVV.
 
 <p align="left">
     <a href="https://github.com/Lucasmardegani?tab=repositories&sort=stargazers">
