@@ -69,8 +69,9 @@ Me chamo Lucas Mardegani, tenho 19 anos e sou natural do Espírito Santo. Conclu
 
 ### 📊 Estatísticas
 
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: space-around; align-items: center;">
   <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api?username=Lucasmardegani&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
   <img alt="GitHub Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasmardegani&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" />
 </div>
+
 </p>
