@@ -41,11 +41,11 @@ Me chamo Lucas Mardegani, tenho 20 anos e sou natural do Espírito Santo. Conclu
 />
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="Java" 
+    title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
     align="left" 
@@ -54,6 +54,8 @@ Me chamo Lucas Mardegani, tenho 20 anos e sou natural do Espírito Santo. Conclu
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
     align="left" 
     alt="Python" 
     title="Python"
