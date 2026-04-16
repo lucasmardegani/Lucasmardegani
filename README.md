@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=20&section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=12&section=header)
 
 ###
 
@@ -82,16 +82,16 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucasmardegani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ambient_gradient&locale=pt-br&hide_border=false" height="135" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucasmardegani&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=ambient_gradient&hide_border=false" height="135" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucasmardegani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=green_navy&locale=pt-br&hide_border=false" height="135" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucasmardegani&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=green_navy&hide_border=false" height="135" alt="languages graph" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lucasmardegani.Lucasmardegani&left_color=green&right_color=55960c" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lucasmardegani.Lucasmardegani&left_color=1a5f2a&right_color=55960c" />
 </div>
 
 ###
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=20&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=12&section=footer)
