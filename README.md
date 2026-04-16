@@ -42,7 +42,7 @@
 
 ###
 
-<h3 align="center" style="color: #1E6F9F;">Linguagens e Ferramentas</h3>
+<h3 align="left" style="color: #1E6F9F;">Linguagens e Ferramentas</h3>
 
 ###
 
@@ -62,11 +62,11 @@
 
 ###
 
-<h3 align="center" style="color: #1E6F9F;">Repositório de Projetos</h3>
+<h3 align="left" style="color: #1E6F9F;">Repositório de Projetos</h3>
 
 ###
 
-<p align="center">
+<p align="left">
 <b>Frontend</b> – Interfaces com HTML, CSS e JavaScript<br>
 <b>Java</b> – Projetos e estudos em Java<br>
 <b>Desafios</b> – Exercícios para melhorar lógica e código<br>
