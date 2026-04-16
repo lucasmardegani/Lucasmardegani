@@ -28,7 +28,7 @@
 
 <br clear="both">
 
-<img align="right" height="350" src="https://i.imgur.com/nH0Z49S.jpeg" />
+<img align="right" height="350" src="https://i.imgur.com/YhSVYQg.jpeg" />
 
 ###
 
