@@ -7,20 +7,20 @@
 ###
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=55960c&background=FF56FF00&center=true&width=500&lines=Aspirante+a+Full+Stack+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=1E6F9F&background=FF56FF00&center=true&width=500&lines=Aspirante+a+Full+Stack+Developer" alt="Typing SVG" /></a>
 </div>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/lucasmardegani/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:lucas.mardegani@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic" alt="E-mail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
   <a href="https://github.com/Lucasmardegani">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=plastic" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
@@ -42,7 +42,7 @@
 
 ###
 
-<h3 align="left">Linguagens e Ferramentas</h3>
+<h3 align="center" style="color: #1E6F9F;">Linguagens e Ferramentas</h3>
 
 ###
 
@@ -62,11 +62,11 @@
 
 ###
 
-<h3 align="left">Repositório de Projetos</h3>
+<h3 align="center" style="color: #1E6F9F;">Repositório de Projetos</h3>
 
 ###
 
-<p align="left">
+<p align="center">
 <b>Frontend</b> – Interfaces com HTML, CSS e JavaScript<br>
 <b>Java</b> – Projetos e estudos em Java<br>
 <b>Desafios</b> – Exercícios para melhorar lógica e código<br>
@@ -75,13 +75,13 @@
 
 ###
 
-<h3 align="left">Status</h3>
+<h3 align="center" style="color: #1E6F9F;">Status</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lucasmardegani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=green_navy&locale=pt-br&hide_border=false" height="135" alt="stats graph" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lucasmardegani&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=green_navy&hide_border=false" height="135" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucasmardegani&show_icons=true&theme=algolia&locale=pt-br&hide_border=false" height="135" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasmardegani&layout=compact&theme=algolia&locale=pt-br&hide_border=false&langs_count=6" height="135" alt="languages graph" />
 </div>
 
 ###
