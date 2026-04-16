@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=55960c&background=FF56FF00&center=true&width=550&lines=Aspirante+a+Full+Stack+Developer;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvimento+Web+e+Banco+de+Dados" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=55960c&background=FF56FF00&center=true&width=500&lines=Aspirante+a+Full+Stack+Developer" alt="Typing SVG" /></a>
 </div>
 
 ###
@@ -58,8 +58,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo" />
 </div>
 
 ###
@@ -82,8 +80,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucasmardegani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=green_navy&locale=pt-br&hide_border=false" height="135" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucasmardegani&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=green_navy&hide_border=false" height="135" alt="languages graph" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lucasmardegani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=green_navy&locale=pt-br&hide_border=false" height="135" alt="stats graph" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lucasmardegani&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=green_navy&hide_border=false" height="135" alt="languages graph" />
 </div>
 
 ###
